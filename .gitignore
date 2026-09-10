@@ -5,3 +5,5 @@ desktop.ini
 *.tmp
 ~$*
 .claude/
+
+tasks/
