@@ -20,7 +20,7 @@
 | 文件 | 中文版本 | English version | 內容與用途 |
 | --- | --- | --- | --- |
 | 課程大綱 | [Markdown](course-materials/SYLLABUS.md) / [PDF](course-materials/SYLLABUS.pdf) | [Syllabus](course-materials/SYLLABUS_EN.md) | 課程資訊、學習目標、五個建議研究方向、16 週進度、作業與評量、競賽時程、研究與 AI 使用規範。 |
-| 校務資料欄位指南 | [中文 HTML](https://audachang.github.io/ir-competition/NCU_IR_Field_Catalog_ZH.html) | [English HTML](https://audachang.github.io/ir-competition/NCU_IR_Field_Catalog_EN.html) | 由欄位名稱一覽表轉製，完整收錄 36 個工作表、34 份資料清單與 626 個欄位項目；支援頁籤跳轉、搜尋與語言切換。線上版本須輸入課程密碼；未加密原檔僅存本機。 |
+| 校務資料欄位指南 | [中文 HTML](https://audachang.github.io/ir-competition/University_IR_Field_Catalog_ZH.html) | [English HTML](https://audachang.github.io/ir-competition/University_IR_Field_Catalog_EN.html) | 由欄位名稱一覽表轉製，完整收錄 36 個工作表、34 份資料清單與 626 個欄位項目；支援頁籤跳轉、搜尋與語言切換。線上版本須輸入課程密碼；未加密原檔僅存本機。 |
 
 ### 競賽選題與文獻
 
@@ -69,7 +69,7 @@ This page is the shared Chinese/English entry point. **Students should follow th
 | Document | Chinese version | English version | Contents and use |
 | --- | --- | --- | --- |
 | Syllabus | [Markdown](course-materials/SYLLABUS.md) / [PDF](course-materials/SYLLABUS.pdf) | [English](course-materials/SYLLABUS_EN.md) | Course information, objectives, five suggested research directions, 16-week schedule, assignments and assessment, competition dates, and research and AI policies. |
-| Institutional Data Field Catalog | [Chinese HTML](https://audachang.github.io/ir-competition/NCU_IR_Field_Catalog_ZH.html) | [English HTML](https://audachang.github.io/ir-competition/NCU_IR_Field_Catalog_EN.html) | Converted from the field-name workbook: all 36 worksheets, 34 dataset lists and 626 field entries, with worksheet navigation, search and language switching. The online version requires the course password; unencrypted originals remain local. |
+| Institutional Data Field Catalog | [Chinese HTML](https://audachang.github.io/ir-competition/University_IR_Field_Catalog_ZH.html) | [English HTML](https://audachang.github.io/ir-competition/University_IR_Field_Catalog_EN.html) | Converted from the field-name workbook: all 36 worksheets, 34 dataset lists and 626 field entries, with worksheet navigation, search and language switching. The online version requires the course password; unencrypted originals remain local. |
 
 ### Competition Ideas and Literature
 
