@@ -26,10 +26,13 @@
 
 | 文件 | 中文版本 | English version | 內容與用途 |
 | --- | --- | --- | --- |
+| 2026 競賽八個欄位導向選題 | [中文](competition-ideas/2026_AI_IR_Competition_Topics_ZH.md) | [English](competition-ideas/2026_AI_IR_Competition_Topics_EN.md) | 依 34 份資料清單與 626 個欄位重新設計八題，含研究問題、AI 原型、欄位出處、最小範圍、驗證與備案；優先閱讀此版選題建議。 |
 | NCU IR 資料盤點與選題評估 | [中文](competition-ideas/NCU_IR_資料盤點與選題評估_2026-09-09.md) | [Data Inventory and Topic Assessment](competition-ideas/NCU_IR_Data_Inventory_and_Topic_Assessment_2026-09-09_EN.md) | 2026-09-09 平台盤點、欄位與時間資訊、資料限制、五個候選題目重新評估及未提交的資料需求草案。選題前優先閱讀。 |
 | NCU IR 60 項資料目錄 | [中文](competition-ideas/NCU_IR_60項資料目錄_2026-09-09.md) | [60-Item Data Catalog](competition-ideas/NCU_IR_60_Item_Data_Catalog_2026-09-09_EN.md) | 38 項校務拋轉資料與 22 項教育部校庫報表的名稱、申請欄位、時間選項與限制；不是核准後資料字典，未取得資料值。 |
 | 歷年競賽得獎題目與 NCU 資料對照 | [中文](competition-ideas/校務研究競賽歷年得獎題目與NCU資料對照_2026-09-09.md) | [Past Awards and NCU Data Mapping](competition-ideas/IR_Competition_Past_Awards_and_NCU_Data_Mapping_2026-09-09_EN.md) | 四校 55 筆公開獲獎紀錄與 NCU 資料缺口對照。包含並列與分階段獎項，並非 55 個不重複計畫。 |
 | 生成式 AI 與校務研究文獻 | 英文全文，附中文選題標籤 | [Literature Review](competition-ideas/GenAI_IR_Literature_Review_2026-09-15.md) | 2026-09-15 檢索：12 筆參考文獻，含四筆臺灣相關文獻（三項學生研究、一份實務報告）及一項涵蓋臺灣的區域研究；附逐筆引用查核、證據限制與五個研究方向。非系統性回顧。 |
+
+**競賽時程更新（2026-09-15 核對）：** [現行官方簡章](https://ir.ncu.edu.tw/static/file/34/1034/img/429/602589443.pdf)要求於 **11 月 11 日 23:59 前**繳交報告、四分鐘以內的示範影片、簡報及 A0 海報。較早大綱與盤點文件中的 11 月 16 日期限已過時；其他課程要求仍以大綱為準。
 
 ### 相關連結
 
@@ -75,10 +78,13 @@ This page is the shared Chinese/English entry point. **Students should follow th
 
 | Document | Chinese version | English version | Contents and use |
 | --- | --- | --- | --- |
+| Eight Field-Based Topics for the 2026 Competition | [Chinese](competition-ideas/2026_AI_IR_Competition_Topics_ZH.md) | [English](competition-ideas/2026_AI_IR_Competition_Topics_EN.md) | Eight topics grounded in 34 dataset lists and 626 fields, with research questions, AI prototypes, field references, minimum scope, validation, and fallbacks. Start here for the updated topic recommendations. |
 | NCU IR Data Inventory and Topic Assessment | [Chinese](competition-ideas/NCU_IR_資料盤點與選題評估_2026-09-09.md) | [English](competition-ideas/NCU_IR_Data_Inventory_and_Topic_Assessment_2026-09-09_EN.md) | September 9, 2026 inventory, field/time interpretation, access limits, reassessment of five candidate topics, and an unsubmitted data request draft. Read before selecting a topic. |
 | Catalog of 60 Data Items | [Chinese](competition-ideas/NCU_IR_60項資料目錄_2026-09-09.md) | [English](competition-ideas/NCU_IR_60_Item_Data_Catalog_2026-09-09_EN.md) | Names, request fields, time options, and limits for 38 administrative-system datasets and 22 ministry reports. Not an approved data dictionary; no data values obtained. |
 | Past Competition Awards and NCU Data Mapping | [Chinese](competition-ideas/校務研究競賽歷年得獎題目與NCU資料對照_2026-09-09.md) | [English](competition-ideas/IR_Competition_Past_Awards_and_NCU_Data_Mapping_2026-09-09_EN.md) | 55 public award records from four institutions, mapped to NCU data and gaps. Includes ties and separate stages, not 55 distinct projects. |
 | Generative AI and Institutional Research Literature | English text with Chinese topic labels | [Literature Review](competition-ideas/GenAI_IR_Literature_Review_2026-09-15.md) | September 15, 2026 search: 12 references, including four Taiwan-focused publications (three student studies and one practical report) and one regional study covering Taiwan, with a reference-by-reference audit, evidence limits, and five proposed research directions. Not a systematic review. |
+
+**Competition deadline update (checked September 15, 2026):** The [current official guidelines](https://ir.ncu.edu.tw/static/file/34/1034/img/429/602589443.pdf) require the report, a demo video of no more than four minutes, slides, and an A0 poster by **November 11 at 23:59**. The November 16 deadline in the older syllabus and inventory documents is outdated; the syllabus remains authoritative for other course requirements.
 
 ### Related Links
 
