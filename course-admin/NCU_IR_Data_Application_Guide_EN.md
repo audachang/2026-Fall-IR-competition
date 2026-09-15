@@ -4,7 +4,7 @@ For NS5119 students and supervising faculty. Compiled September 10, 2026. Based 
 
 *Translated September 13, 2026 from [the Chinese guide](NCU_IR_資料申請指引.md). This translation preserves the source’s instructions and verification dates; it is not a new verification of current procedures. Chinese interface labels and required wording are retained for reference. English names of forms and rules are descriptive translations.*
 
-[English course information](README.md#english) · [English syllabus](SYLLABUS_EN.md)
+[English course information](../README.md#english) · [English syllabus](SYLLABUS_EN.md)
 
 ## 1. Who May Apply
 
@@ -33,7 +33,7 @@ Four commonly used pages:
 | Data Use Applications (資料使用申請) | <https://cis.ncu.edu.tw/IRSys/dataMarket/dataApply> | Check application status. |
 | Data Download / Amendment / Closure (資料下載／異動／結案) | <https://cis.ncu.edu.tw/IRSys/dataMarket/dataHistory> | Download approved data, request changes, and close a project at the end of the use period. |
 
-The catalog has two main sources: data transferred from university administrative systems (academic affairs, student affairs, personnel, research and development, and integrated data) and Ministry of Education university database reports. See the course’s [60-item data catalog](NCU_IR_60_Item_Data_Catalog_2026-09-09_EN.md).
+The catalog has two main sources: data transferred from university administrative systems (academic affairs, student affairs, personnel, research and development, and integrated data) and Ministry of Education university database reports. See the course’s [60-item data catalog](../competition-ideas/NCU_IR_60_Item_Data_Catalog_2026-09-09_EN.md).
 
 ## 3. Online Application Procedure
 
@@ -66,7 +66,7 @@ Specific requests can help streamline review and delivery and reduce the need fo
 - **Computing environment and tools.** Explain where the data will be stored and whether they will be entered into AI tools or used to build a retrieval index. The guidelines prohibit copying data or providing them to people outside the research team. Do not send the data to external services without permission.
 - **Scope of presentation.** Describe which aggregate results will appear in competition reports, posters, and final deliverables, and whether those results will be public.
 
-The course’s draft request for 學29, course offering data, and 學9—including fields and periods—is in Section 7 of the [data inventory and topic assessment](NCU_IR_Data_Inventory_and_Topic_Assessment_2026-09-09_EN.md) and can serve as a starting point.
+The course’s draft request for 學29, course offering data, and 學9—including fields and periods—is in Section 7 of the [data inventory and topic assessment](../competition-ideas/NCU_IR_Data_Inventory_and_Topic_Assessment_2026-09-09_EN.md) and can serve as a starting point.
 
 ## 6. Obligations After Approval
 

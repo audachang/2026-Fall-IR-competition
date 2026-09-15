@@ -16,7 +16,7 @@
 
 *English translation of [the Chinese syllabus](SYLLABUS.md), prepared September 13, 2026. Course requirements, dates, and source-check dates are retained from that version. English translations of competition categories and Chinese source titles are descriptive, not verified official English names.*
 
-[English course information and supporting documents](README.md#english)
+[English course information and supporting documents](../README.md#english)
 
 ## 1. Course Overview
 
@@ -193,11 +193,11 @@ The **final research package** includes the revised report, code and environment
 
 No textbook purchase is required. During the first two weeks, read the course data inventory and the comparison of past competition cases. Subsequently, select research methods materials and relevant literature according to the project topic. Build an annotated bibliography explaining how each source supports the question, methods, or interpretation. Data request catalogs and field information in the course analysis documents are available to enrolled students within the approved scope. Course documents and subsequent updates are maintained on the course website: <https://github.com/audachang/2026-Fall-IR-competition>.
 
-[1] [NCU IR Data Inventory and NS5119 Topic Assessment — English](NCU_IR_Data_Inventory_and_Topic_Assessment_2026-09-09_EN.md), September 9, 2026. Prioritize the sections on data limitations, topic assessment, and application requirements. [Chinese source](https://github.com/audachang/2026-Fall-IR-competition/blob/main/NCU_IR_資料盤點與選題評估_2026-09-09.md).
+[1] [NCU IR Data Inventory and NS5119 Topic Assessment — English](../competition-ideas/NCU_IR_Data_Inventory_and_Topic_Assessment_2026-09-09_EN.md), September 9, 2026. Prioritize the sections on data limitations, topic assessment, and application requirements. [Chinese source](https://github.com/audachang/2026-Fall-IR-competition/blob/main/competition-ideas/NCU_IR_資料盤點與選題評估_2026-09-09.md).
 
-[2] [NCU IR Catalog of 60 Data Items — English](NCU_IR_60_Item_Data_Catalog_2026-09-09_EN.md), September 9, 2026. Use it to locate data and fields; it does not replace the data dictionary provided after approval. [Chinese source](https://github.com/audachang/2026-Fall-IR-competition/blob/main/NCU_IR_60項資料目錄_2026-09-09.md).
+[2] [NCU IR Catalog of 60 Data Items — English](../competition-ideas/NCU_IR_60_Item_Data_Catalog_2026-09-09_EN.md), September 9, 2026. Use it to locate data and fields; it does not replace the data dictionary provided after approval. [Chinese source](https://github.com/audachang/2026-Fall-IR-competition/blob/main/competition-ideas/NCU_IR_60項資料目錄_2026-09-09.md).
 
-[3] [Past Award-Winning Institutional Research Competition Topics and Corresponding NCU Data — English](IR_Competition_Past_Awards_and_NCU_Data_Mapping_2026-09-09_EN.md), September 9, 2026. Read selected cases on course participation, learning performance, and career interests to examine their data requirements. [Chinese source](https://github.com/audachang/2026-Fall-IR-competition/blob/main/校務研究競賽歷年得獎題目與NCU資料對照_2026-09-09.md).
+[3] [Past Award-Winning Institutional Research Competition Topics and Corresponding NCU Data — English](../competition-ideas/IR_Competition_Past_Awards_and_NCU_Data_Mapping_2026-09-09_EN.md), September 9, 2026. Read selected cases on course participation, learning performance, and career interests to examine their data requirements. [Chinese source](https://github.com/audachang/2026-Fall-IR-competition/blob/main/competition-ideas/校務研究競賽歷年得獎題目與NCU資料對照_2026-09-09.md).
 
 [4] National Central University, Academic Year 115 Calendar, page 1. For course planning details, see the course plan retained by the instructor.
 

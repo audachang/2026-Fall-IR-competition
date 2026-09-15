@@ -189,11 +189,11 @@
 
 不指定必購教科書。首兩週閱讀課程資料盤點與歷年競賽對照；其後依選題補充研究方法及相關文獻，建立註解書目，說明各來源如何支持問題、方法與解釋。課程分析文件中的申請目錄與欄位資訊，依核准範圍供修課者使用。課程文件與後續更新集中於課程網站 <https://github.com/audachang/2026-Fall-IR-competition>。
 
-[1] [NCU IR 資料盤點與 NS5119 選題評估](https://github.com/audachang/2026-Fall-IR-competition/blob/main/NCU_IR_資料盤點與選題評估_2026-09-09.md)，2026/09/09。優先閱讀資料限制、選題評估與申請需求。
+[1] [NCU IR 資料盤點與 NS5119 選題評估](https://github.com/audachang/2026-Fall-IR-competition/blob/main/competition-ideas/NCU_IR_資料盤點與選題評估_2026-09-09.md)，2026/09/09。優先閱讀資料限制、選題評估與申請需求。
 
-[2] [NCU IR 60 項資料目錄](https://github.com/audachang/2026-Fall-IR-competition/blob/main/NCU_IR_60項資料目錄_2026-09-09.md)，2026/09/09。用於查找資料與欄位，不取代核准後資料字典。
+[2] [NCU IR 60 項資料目錄](https://github.com/audachang/2026-Fall-IR-competition/blob/main/competition-ideas/NCU_IR_60項資料目錄_2026-09-09.md)，2026/09/09。用於查找資料與欄位，不取代核准後資料字典。
 
-[3] [校務研究競賽歷年得獎題目與 NCU 資料對照](https://github.com/audachang/2026-Fall-IR-competition/blob/main/校務研究競賽歷年得獎題目與NCU資料對照_2026-09-09.md)，2026/09/09。選讀修課、學習表現與職趣案例，檢討資料條件。
+[3] [校務研究競賽歷年得獎題目與 NCU 資料對照](https://github.com/audachang/2026-Fall-IR-competition/blob/main/competition-ideas/校務研究競賽歷年得獎題目與NCU資料對照_2026-09-09.md)，2026/09/09。選讀修課、學習表現與職趣案例，檢討資料條件。
 
 [4] 國立中央大學，115 學年度校曆，第 1 頁；課程規劃參見教師保存的課程計畫文件。
 

@@ -4,7 +4,7 @@ Inspection date: September 9, 2026, Asia/Taipei. Compilation and verification co
 
 *Translated September 13, 2026 from [the Chinese report](NCU_IR_資料盤點與選題評估_2026-09-09.md). Inspection results and recommendations describe the original September 9 work, not a new verification or the final course topic list. Platform labels and raw codes are retained where useful; English source titles are descriptive translations.*
 
-[English course information](README.md#english) · [Student-facing syllabus](SYLLABUS_EN.md)
+[English course information](../README.md#english) · [Student-facing syllabus](../course-admin/SYLLABUS_EN.md)
 
 ## 1. What Was Confirmed
 

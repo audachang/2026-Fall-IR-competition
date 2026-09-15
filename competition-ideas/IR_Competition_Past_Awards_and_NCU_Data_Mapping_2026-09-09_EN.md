@@ -6,7 +6,7 @@ Verification date: September 9, 2026. Scope: public competition announcements fr
 
 *Translated September 13, 2026 from [the Chinese comparison](校務研究競賽歷年得獎題目與NCU資料對照_2026-09-09.md). Verification statements and coverage describe the original September 9 review; no fresh award search is implied. English project titles, source titles, and award-tier names are descriptive translations, not verified official English wording. Original record IDs, source URLs, ties, stages, and support ratings are retained. Chinese wording is retained where needed to identify an ambiguous title or award tier.*
 
-[English course information](README.md#english) · [60-item data catalog](NCU_IR_60_Item_Data_Catalog_2026-09-09_EN.md)
+[English course information](../README.md#english) · [60-item data catalog](NCU_IR_60_Item_Data_Catalog_2026-09-09_EN.md)
 
 ## Verification Conventions
 

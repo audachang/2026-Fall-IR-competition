@@ -8,7 +8,7 @@ Time ranges indicate only the outer bounds of selectable options. **They do not 
 
 *Translated September 13, 2026 from [the Chinese catalog](NCU_IR_60項資料目錄_2026-09-09.md). The inspection statements describe September 9, not a new platform check. English dataset titles are descriptive translations. ROC years, semester/reporting codes, dataset identifiers, irregular values, and source URLs are preserved. “Program type” refers to 學制; “occurrences” may count a person more than once, unlike a distinct headcount.*
 
-[English course information](README.md#english) · [Topic assessment](NCU_IR_Data_Inventory_and_Topic_Assessment_2026-09-09_EN.md)
+[English course information](../README.md#english) · [Topic assessment](NCU_IR_Data_Inventory_and_Topic_Assessment_2026-09-09_EN.md)
 
 ## Administrative-System Data: Academic Affairs — 18 Items
 
