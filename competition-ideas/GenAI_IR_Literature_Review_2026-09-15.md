@@ -2,7 +2,7 @@
 
 ## 生成式 AI 與校務研究：近五年文獻與競賽選題
 
-[Course home / 課程首頁](../README.md) · [English course information](../README.md#english) · [NCU data inventory](NCU_IR_Data_Inventory_and_Topic_Assessment_2026-09-09_EN.md) · [Data application guide](../course-admin/NCU_IR_Data_Application_Guide_EN.md)
+[Course home / 課程首頁](../README.md) · [English course information](../README.md#english) · [NCU data inventory](NCU_IR_Data_Inventory_and_Topic_Assessment_2026-09-09_EN.md) · [NCU IR Office application instructions](https://ir.ncu.edu.tw/p/412-1034-2329.php?Lang=zh-tw)
 
 | Review information | Details |
 | --- | --- |
@@ -208,7 +208,7 @@ For each project, identify the institutional user, the decision to support, the 
 - The list mixes journal research, a practical report, a published conference paper with an author-manuscript link, and a professional survey report; publication types are identified above.
 - Policy coverage, self-reported attitudes, short-term performance, and sustained institutional outcomes are different kinds of evidence.
 - Full texts, measurement instruments, sampling details, and local applicability should be reviewed before finalizing a study protocol.
-- This review contains literature summaries and proposed topics, not NCU student-level data or permission to obtain or publish such data. Follow the [data application guide](../course-admin/NCU_IR_Data_Application_Guide_EN.md) for projects requiring institutional records.
+- This review contains literature summaries and proposed topics, not NCU student-level data or permission to obtain or publish such data. Follow the [NCU IR Office application instructions](https://ir.ncu.edu.tw/p/412-1034-2329.php?Lang=zh-tw) for projects requiring institutional records.
 - The search and source checks are dated September 15, 2026. Later readers should check for corrections, publication updates, and newer evidence.
 
 ## 6. Reference verification record

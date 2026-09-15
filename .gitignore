@@ -6,7 +6,5 @@ desktop.ini
 ~$*
 .claude/
 
-# Local course administration notes and unpublished planning drafts
-/course-admin/tasks/
-/course-admin/NS5119_115-1_課程計畫.md
-/course-admin/NS5119_115-1_Course_Plan_EN.md
+# Local-only course administration files
+/course-admin/

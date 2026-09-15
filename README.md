@@ -1,7 +1,7 @@
 # NS5119 獨立研究：校務研究與大數據分析（115-1）
 # Independent Study: Institutional Research and Big Data Analytics — Fall 2026
 
-[中文](#中文) · [English](#english) · [中文課程大綱](course-admin/SYLLABUS.md) · [English syllabus](course-admin/SYLLABUS_EN.md)
+[中文](#中文) · [English](#english) · [中文課程大綱](course-materials/SYLLABUS.md) · [English syllabus](course-materials/SYLLABUS_EN.md)
 
 ## 中文
 
@@ -9,17 +9,17 @@
 
 ### 資料夾結構
 
-- [course-admin/：課程行政](course-admin/) — 課程大綱、資料申請指引及相關圖片；本機另存未公開的課程計畫與作業備註。
+- [course-materials/：課程教材](course-materials/) — 中英文課程大綱及中文 PDF。
+- `course-admin/`：課程行政 — 僅存本機，不納入 Git 追蹤或推送。
 - [competition-ideas/：競賽選題](competition-ideas/) — 資料盤點、資料目錄、歷年競賽案例、生成式 AI 文獻與研究方向。
 
 本頁為中英文共用入口。**學生應以課程大綱為準；選題文件提供研究參考。**
 
-### 課程行政文件
+### 課程教材
 
 | 文件 | 中文版本 | English version | 內容與用途 |
 | --- | --- | --- | --- |
-| 課程大綱 | [Markdown](course-admin/SYLLABUS.md) / [PDF](course-admin/SYLLABUS.pdf) | [Syllabus](course-admin/SYLLABUS_EN.md) | 課程資訊、學習目標、五個建議研究方向、16 週進度、作業與評量、競賽時程、研究與 AI 使用規範。 |
-| 校務研究資料申請指引 | [中文](course-admin/NCU_IR_資料申請指引.md) | [Data Application Guide](course-admin/NCU_IR_Data_Application_Guide_EN.md) | 申請資格、Portal 路徑與附圖、申請程序、保密與發表審核、結案與銷毀。 |
+| 課程大綱 | [Markdown](course-materials/SYLLABUS.md) / [PDF](course-materials/SYLLABUS.pdf) | [Syllabus](course-materials/SYLLABUS_EN.md) | 課程資訊、學習目標、五個建議研究方向、16 週進度、作業與評量、競賽時程、研究與 AI 使用規範。 |
 
 ### 競賽選題與文獻
 
@@ -45,11 +45,11 @@
 
 資料目錄與欄位資訊為登入後可見內容的摘錄，僅供修課者依核准範圍使用，不構成公開資料的再散布授權。實際分析資料須依 IR 辦公室程序申請；整理資料夾與翻譯不擴大資料的使用或公開範圍。
 
-`course-admin/` 中的兩份 `NS5119_115-1_*` 課程計畫草稿及 `tasks/` 本機備註維持由 `.gitignore` 排除，不列入公開課程文件。
+整個 `course-admin/` 資料夾由 `.gitignore` 排除，包含資料申請指引、圖片、試算表、課程計畫與本機備註。
 
 ### 建置 PDF
 
-中文 `course-admin/SYLLABUS.pdf` 由同資料夾的 `SYLLABUS.md` 以 pandoc 轉 HTML 後，用 headless Chrome 列印產生（字型：微軟正黑體）。修改中文大綱後請重新產出。英文版本目前提供 Markdown，尚無英文 PDF。此次整理已同步更新中文大綱與 PDF 的三個課程文件連結；PDF 文字與版面維持不變。
+中文 `course-materials/SYLLABUS.pdf` 由同資料夾的 `SYLLABUS.md` 以 pandoc 轉 HTML 後，用 headless Chrome 列印產生（字型：微軟正黑體）。修改中文大綱後請重新產出。英文版本目前提供 Markdown，尚無英文 PDF。此次整理已同步更新中文大綱與 PDF 的三個課程文件連結；PDF 文字與版面維持不變。
 
 ## English
 
@@ -57,17 +57,17 @@ An independent study course at National Central University in Academic Year 115,
 
 ### Folder Structure
 
-- [course-admin/](course-admin/) — Syllabi, data application guides, and their images. Unpublished course plans and working notes are also stored here locally.
+- [course-materials/](course-materials/) — Chinese and English syllabi and the Chinese PDF.
+- `course-admin/` — Local-only course administration files, excluded from Git tracking and pushes.
 - [competition-ideas/](competition-ideas/) — Data inventories, the data catalog, past competition comparisons, and GenAI literature and research directions.
 
 This page is the shared Chinese/English entry point. **Students should follow the syllabus; topic documents provide research guidance.**
 
-### Course Administration Documents
+### Course Materials
 
 | Document | Chinese version | English version | Contents and use |
 | --- | --- | --- | --- |
-| Syllabus | [Markdown](course-admin/SYLLABUS.md) / [PDF](course-admin/SYLLABUS.pdf) | [English](course-admin/SYLLABUS_EN.md) | Course information, objectives, five suggested research directions, 16-week schedule, assignments and assessment, competition dates, and research and AI policies. |
-| Data Application Guide | [Chinese](course-admin/NCU_IR_資料申請指引.md) | [English](course-admin/NCU_IR_Data_Application_Guide_EN.md) | Eligibility, Portal navigation with an image, application procedures, confidentiality and publication review, closure, and destruction. |
+| Syllabus | [Markdown](course-materials/SYLLABUS.md) / [PDF](course-materials/SYLLABUS.pdf) | [English](course-materials/SYLLABUS_EN.md) | Course information, objectives, five suggested research directions, 16-week schedule, assignments and assessment, competition dates, and research and AI policies. |
 
 ### Competition Ideas and Literature
 
@@ -93,8 +93,8 @@ Existing English Markdown documents were translated from Chinese on September 13
 
 The catalog and field descriptions are extracts of information visible after login. They are for course participants within the approved scope and do not authorize redistribution as public data. Actual analytical data must be requested through the IR Office. Reorganization and translation do not expand the permitted scope of use or public release.
 
-The two `NS5119_115-1_*` planning drafts and local `tasks/` notes under `course-admin/` remain excluded by `.gitignore` and are not listed as public course documents.
+The entire `course-admin/` folder is excluded by `.gitignore`, including data application guides, images, spreadsheets, course plans, and working notes.
 
 ### Building the PDF
 
-The Chinese `course-admin/SYLLABUS.pdf` is generated from `SYLLABUS.md` in the same folder by converting Markdown to HTML with pandoc and printing through headless Chrome, using Microsoft JhengHei. Regenerate the PDF after changing its Chinese source syllabus. English versions are currently provided as Markdown, without an English PDF. This reorganization updates three course-document links in both the Chinese syllabus and PDF; the PDF text and layout are unchanged.
+The Chinese `course-materials/SYLLABUS.pdf` is generated from `SYLLABUS.md` in the same folder by converting Markdown to HTML with pandoc and printing through headless Chrome, using Microsoft JhengHei. Regenerate the PDF after changing its Chinese source syllabus. English versions are currently provided as Markdown, without an English PDF. This reorganization updates three course-document links in both the Chinese syllabus and PDF; the PDF text and layout are unchanged.
